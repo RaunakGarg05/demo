@@ -10,6 +10,6 @@ public class App {
             }
             System.out.println();
         }
-        sc.close();
+    
     }
 }
